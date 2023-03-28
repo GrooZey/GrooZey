@@ -2,5 +2,14 @@
 <h3 align="center">A passionate computer science student from France</h3>
 
 - I’m studying **in the University of Strasbourg**
-
 - How to reach me: **you can always contact me by email (theiss.sean@gmail.com)**
+
+<h3 align="center">This is how I will detail my commits :</h3>
+
+My commits will have a prefix. Depending of the prefix, it has a particularity :
+
+- **new**: new project or new feature to the project;
+- **fix**: a bug that disable the code is fixed;
+- **edt**: editing my code and correcting it;
+- **doc**: editing the documentation (README or comments);
+- **del**: deleting a part of the project (hopes it will not happend).
