@@ -1,17 +1,17 @@
 <h1 align="center">Hello 👋, I'm Sean</h1>
-<h3 align="center">A passionate computer science student from France</h3>
+<h3>A passionate computer science student from France</h3>
 
 - I’m studying **in the University of Strasbourg**
 - How to reach me: **you can always contact me by email (theiss.sean@gmail.com)**
 
-<h5> I speak:</h5>
+<h4> I speak:</h4>
 
 - French
 - English
 
-<h3 align="center">This is how I will detail my commits :</h3>
+<h3>This is how I will detail my commits :</h3>
 
-<h5>My commits will have a prefix. Depending of the prefix, it has a particularity :</h5>
+<h4>My commits will have a prefix. Depending of the prefix, it has a particularity :</h4>
 
 - **new**: new project or new feature to the project;
 - **fix**: a bug that disable the code is fixed;
