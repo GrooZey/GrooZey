@@ -5,9 +5,10 @@
 - How to reach me: **you can always contact me by email (theiss.sean@gmail.com)**
 
 <h5> I speak:</h5>
+
 - French
 - English
-- 
+
 <h3 align="center">This is how I will detail my commits :</h3>
 
 <h5>My commits will have a prefix. Depending of the prefix, it has a particularity :</h5>
