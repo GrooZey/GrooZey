@@ -4,9 +4,13 @@
 - I’m studying **in the University of Strasbourg**
 - How to reach me: **you can always contact me by email (theiss.sean@gmail.com)**
 
+<h5> I speak:</h5>
+- French
+- English
+- 
 <h3 align="center">This is how I will detail my commits :</h3>
 
-My commits will have a prefix. Depending of the prefix, it has a particularity :
+<h5>My commits will have a prefix. Depending of the prefix, it has a particularity :</h5>
 
 - **new**: new project or new feature to the project;
 - **fix**: a bug that disable the code is fixed;
