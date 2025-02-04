@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Sean</h1>
 <h3>A passionate computer science student from France</h3>
 
-- I studied **in the University of Strasbourg** and in **Dawan Strasbourg**
-- How to reach me: **you can always contact me by email (theiss.sean@gmail.com)**
+- I studied in the **University of Strasbourg** where I got a **DUT (BAC+2)** and then in **Dawan Strasbourg** where I got a **TP (BAC+3)**
+- How to reach me: you can always contact me **by email** (theiss.sean@gmail.com)
 
 <h4> I speak:</h4>
 
